@@ -1,0 +1,6 @@
+.clicked{
+    color: dodgerblue;
+}
+#title{
+    cursor: pointer;
+}

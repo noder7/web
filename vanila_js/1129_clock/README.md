@@ -1,10 +1,10 @@
 ## clock made by Vanila JS.
 
 ### Result
-![image](capture.JPG)
+![image](Capture.JPG)
 
 ### Video
-[![Click to watch this video](capture.JPG)](https://youtu.be/dhSD4RRwIPg "Click to watch this video")
+[![Click to watch this video](Capture.JPG)](https://youtu.be/dhSD4RRwIPg "Click to watch this video")
 
 ### Data Storage
 #### Local Storage on Web Browser

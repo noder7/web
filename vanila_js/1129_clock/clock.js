@@ -2,6 +2,7 @@ const title = document.querySelector('#title');
 const CLICKED_CLASS = 'clicked';
 let date, hour, min, sec;
 
+// handle Time
 function getTime(){
     date = new Date();
     hour = date.getHours();
@@ -11,10 +12,9 @@ function getTime(){
         min < 10 ? `0${min}` : min
     }:${sec < 10 ? `0${sec}` : sec}`;
 };
-
-function HandleClick() {
-    const currentClass = title.className;
+function handleClick() {
     title.classList.toggle(CLICKED_CLASS);
+    // const currentClass = title.className;
     // const hasClass = title.classList.contains(CLICKED_CLASS);
     // if(hasClass){
     //     title.classList.remove(CLICKED_CLASS);
@@ -28,6 +28,5 @@ function init() {
     setInterval(getTime, 1000);
 }
 
-title.addEventListener('click', HandleClick);
+title.addEventListener('click', handleClick);
 init();
-

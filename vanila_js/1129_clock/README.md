@@ -1,10 +1,10 @@
 ## To Do app in Vanila JS.
 
 ### Result
-![image](1129_clock/screenshot.JPG)
+![image](screenshot.JPG)
 
 ### Video
-[![Click to watch this video](1129_clock/Capture.JPG)](https://youtu.be/dhSD4RRwIPg "Click to watch this video")
+[![Click to watch this video](Capture.JPG)](https://youtu.be/dhSD4RRwIPg "Click to watch this video")
 
 ### Data Storage
 #### Local Storage on Web Browser

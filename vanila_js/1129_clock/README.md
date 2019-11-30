@@ -1,4 +1,4 @@
-## clock made by Vanila JS.
+## To Do app in Vanila JS.
 
 ### Result
 ![image](screenshot.JPG)

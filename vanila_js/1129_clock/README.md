@@ -1,7 +1,7 @@
 ## clock made by Vanila JS.
 
 ### Result
-![image](Capture.JPG)
+![image](screenshot.jpg)
 
 ### Video
 [![Click to watch this video](Capture.JPG)](https://youtu.be/dhSD4RRwIPg "Click to watch this video")

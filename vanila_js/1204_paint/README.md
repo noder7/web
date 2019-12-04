@@ -1,5 +1,7 @@
 ## PaintJS
 
+![](Capture.JPG)
+
 ### Features
 #### 1. You can pick colors.
 #### 2. You can fill the canvas.
